@@ -1,0 +1,17 @@
+{
+  "name": "node_axa",
+  "version": "1.0.0",
+  "description": "This is a node application built for a job intervio for AXA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "requests": "^0.2.2"
+  }
+}
